@@ -1,0 +1,6 @@
+{
+  "name": "AIphysiocare",
+  "description": "AI-Powered Physiotherapy & Rehabilitation Platform connecting doctors and patients with real-time pose tracking & movement feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
